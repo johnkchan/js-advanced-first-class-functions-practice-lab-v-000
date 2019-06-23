@@ -1,10 +1,10 @@
 // Code your solution in this file!
-function logDriverNames(arr) {
-  arr.forEach(function(driver) {
+function logDriverNames(drivers) {
+  drivers.forEach(function(driver) {
     console.log(driver.name);
   });
 }
 
-function logDriversByHometown(arr) {
+function logDriversByHometown(drivers, location) {
   
 }
